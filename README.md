@@ -7,7 +7,7 @@
   <style>
     @font-face {
       font-family: 'Jupiter Pro';
-      src: url('https://christians-and-lunatics.pages.dev/JupiterPro-Regular.woff') format('woff');
+      src: url('JupiterPro-Regular.woff') format('woff');
       font-weight: 400 700;
       font-style: normal;
       font-display: swap;
@@ -60,7 +60,7 @@
 </head>
 <body>
   <header class="container">
-    <img src="https://christians-and-lunatics.pages.dev/Banner-V1.png" alt="Christians & Lunatics Banner" class="center-image" />
+    <img src="Banner-V1.png" alt="Christians & Lunatics Banner" class="center-image" />
     <h1>CHRISTIANS + LUNATICS - The Story Of Saviour Machine</h1>
     <h2 class="subhead">- A Ten Part Documentary Series By Eric Clayton -</h2>
   </header>
@@ -98,7 +98,7 @@
     <section class="section">
       <p>Exclusively through PayPal:</p>
       <p><strong>eric.c.huckaby@gmail.com</strong></p>
-      <img src="https://christians-and-lunatics.pages.dev/EricPPQR.png" alt="Pay via PayPal QR Code" class="center-image" style="max-width:260px;" />
+      <img src="EricPPQR.png" alt="Pay via PayPal QR Code" class="center-image" style="max-width:260px;" />
     </section>
     <footer>
       God bless you, my friend, and thank you again!<br>– Eric Clayton – June 6, 2025
